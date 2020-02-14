@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab|Source+Sans+Pro&display=swap");
+@import url("components/container.css");
+@import url("components/cookies.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px; 
+	margin: 
+	}
+
+h1,h2,h3{
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold; 
+}
+
+a { text-decoration: none;
+	}
+
+
+
